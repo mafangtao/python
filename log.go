@@ -2,10 +2,6 @@ package logging
 
 import (
 	"log"
-	"os"
-	"runtime"
-	"path/filepath"
-	"fmt"
 )
 
 type Level int
