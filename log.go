@@ -2,6 +2,7 @@ package logging
 
 import (
 	"log"
+	"os"
 )
 
 type Level int
